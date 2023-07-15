@@ -1,6 +1,6 @@
 # change_resolution: a resolution changing utility for windows
 
-(mostly copied from [gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad)
+(mostly copied from [gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad))
 
 ## Usage
 positional arguments:
