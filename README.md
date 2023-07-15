@@ -3,6 +3,7 @@
 (mostly copied from [gamestream_launchpad](https://github.com/cgarst/gamestream_launchpad))
 
 ## Usage
+```
 positional arguments:
   width
   height
@@ -10,7 +11,7 @@ positional arguments:
 options:
   -h, --help            show this help message and exit
   -r REFRESH_RATE, --refresh-rate REFRESH_RATE (optional)
-
+```
 example:
 `./change_resolution.exe 2560 1440 -r 50`
 
