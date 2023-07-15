@@ -1,4 +1,2 @@
 pyinstaller
 pywin32
-pywintypes
-win32api
